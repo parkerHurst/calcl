@@ -2,8 +2,6 @@
 
 A minimal, open-source web-based calculator — inspired by [Numi](https://numi.app), but in the browser.
 
-![dark theme screenshot](https://img.shields.io/badge/theme-dark-0e0e12?style=flat-square)
-
 Type expressions on the left, see results on the right:
 
 ```
